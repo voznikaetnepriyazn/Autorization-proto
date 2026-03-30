@@ -1,4 +1,4 @@
-module autorization
+module github.com/voznikaetnepriyazn/Autorization-proto
 
 go 1.25.4
 
